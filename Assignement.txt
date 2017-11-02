@@ -1,1 +1,15 @@
-'NULL' 
+cd Desktop
+md gittest
+git init
+echo 'NULL' > aboutMe.txt
+echo 'NULL' > aindex.html
+echo 'NULL' > style.css
+git add .
+git commit -m "update aboutMe"
+git add .
+git commit -m "added my favorit movie"
+git log
+git branch v2
+git revert v2
+git add. 
+git committ
