@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Bio: 
 My name is Mina I am a project manager who is looking to sharpen her programming skills.
 
 favorite movie:
 Inglorious Bastards
+=======
+'NULL' 
+>>>>>>> parent of b782ccd... updated aboutMev
